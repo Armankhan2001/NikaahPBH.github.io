@@ -1,0 +1,24 @@
+@media screen and (max-width: 1175px) {
+    .left {
+        flex-basis: 50%; /* Half of the available space */
+    }
+
+    .mid .mid {
+        /* display: block;                 */
+        margin-top: 20px;
+        width: auto;
+        margin-left: 10px ;
+        margin-right: 0px;
+        padding-right: 0px;
+    }
+   
+
+@media screen and (max-width: 480px) {
+    .left img {
+        width: 60px; /* Adjust logo width for smaller screens */
+    }
+
+    .left div {
+        font-size: 18px; /* Decrease font size for smaller screens */
+    }
+}

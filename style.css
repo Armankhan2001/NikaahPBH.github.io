@@ -1,0 +1,25 @@
+
+body {
+    font-family: 'Baloo Bhai', cursive;
+    color: #050505;
+    margin: 0;
+    padding: 0;
+    background: #e7e1c7;
+}
+
+.container {
+    border: 1px solid #9e9595;
+    margin: 80px ;
+    padding: 89px;
+    width: 80%; /* Adjust width as needed */
+    border-radius: 28px;
+    background: #fff; /* White background */
+}
+
+
+
+.AboutUs p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px; /* Spacing between paragraphs */
+}
